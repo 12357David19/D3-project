@@ -1,0 +1,23 @@
+{
+  "name": "d3-project",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "dependencies": {
+    "d3": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12357David19/D3-project.git"
+  },
+  "author": "David newman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12357David19/D3-project/issues"
+  },
+  "homepage": "https://github.com/12357David19/D3-project#readme"
+}
